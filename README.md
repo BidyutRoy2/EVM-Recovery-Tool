@@ -40,8 +40,10 @@ nano .env
 ## ⚡ Run the bot
 - Now run the below command
 ```bash
-node bot.js
+npm start
 ```
+
+## Stop Bot (CTRL + C)
 
 ## 📜 Note
 - Make sure that you have enough $ETH gas fee in `PRIVATE_KEY_SPONSOR` wallet
