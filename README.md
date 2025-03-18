@@ -24,7 +24,7 @@ curl -sSL https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/refs/heads/mai
 ```
 2. **Clone this repository**
 ```bash
-rm -rf asset-recovery-tool && git clone https://github.com/zunxbt/asset-recovery-tool.git && cd asset-recovery-tool
+rm -rf asset-recovery-tool && git clone https://github.com/BidyutRoy2/EVM-Recovery-Tool.git && cd asset-recovery-tool
 ```
 3. **Install dependencies**
 ```bash
