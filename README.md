@@ -1,4 +1,4 @@
-<h2 align=center>Asset Recovery Tool</h2>
+<h2 align=center> EVM Hacked Asset Recovery Tool</h2>
 
 A tool to securely transfer ERC-20 tokens and ERC-721 NFTs from compromised wallets using Flashbots. Works only on the Ethereum Network, preventing frontrunning and ensuring safe asset recovery.
 
@@ -24,7 +24,7 @@ curl -sSL https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/refs/heads/mai
 ```
 2. **Clone this repository**
 ```bash
-rm -rf asset-recovery-tool && git clone https://github.com/BidyutRoy2/EVM-Recovery-Tool.git && cd asset-recovery-tool
+rm -rf evm-recovery && git clone https://github.com/BidyutRoy2/evm-recovery.git && cd evm-recovery
 ```
 3. **Install dependencies**
 ```bash
