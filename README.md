@@ -20,7 +20,7 @@ A tool to securely transfer ERC-20 tokens and ERC-721 NFTs from compromised wall
 ## 📥 Installation  
 1. **Install Node.js and npm if not installed already**  
 ```bash
-curl -sSL https://raw.githubusercontent.com/zunxbt/installation/main/node.sh | bash
+curl -sSL https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/refs/heads/main/installation/node.sh | bash
 ```
 2. **Clone this repository**
 ```bash
