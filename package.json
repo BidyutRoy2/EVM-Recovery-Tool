@@ -1,0 +1,12 @@
+{
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@flashbots/ethers-provider-bundle": "^0.6.2",
+    "dotenv": "^16.4.7",
+    "ethers": "^5.8.0"
+  }
+}
